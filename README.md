@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning new ways to improve my cybersecurity skills and new technologies
+- 🌱 I’m currently learning new ways to improve my cloud skills and new technologies
 - 📫 How to reach me: 
     - alice.mongodin@epitech.eu
-- 💜 I'm interested in OSINT, DevOps, Forensic mostly.
+- 💜 I'm interested in DevOps mostly
 - 💻 I love learning new things and I always look for new opportunities to improve.  
 <!--
 **AliceMongodin/AliceMongodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
